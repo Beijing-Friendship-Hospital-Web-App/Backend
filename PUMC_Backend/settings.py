@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "users",
     "pre_questionaire",
     "post_questionaire",
+    "rest_framework",
 ]
 
 MIDDLEWARE = [
